@@ -15,8 +15,8 @@ Python 3.6 Django MVC framework HTML, CSS and Bootstrap JavaScript Postgressql H
 ## Contributors
 EUwizeyimana Francine
 
-## ontact
+## Contact
 email: uwizeyimanafrancine62@gmail.com
 
 ## License and terms of use
-MIT License 2020 Uwizeyimana Francine
+MIT License 2021 Uwizeyimana Francine
